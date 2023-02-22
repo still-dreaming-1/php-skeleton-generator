@@ -47,7 +47,14 @@
         "command": "php-skeleton-generator.php-skeleton-generate",
         "title": "PHP skeleton generate"
       }
-    ]
+    ],
+    "menus": {
+      "explorer/context": [
+        {
+          "command": "php-skeleton-generator.php-skeleton-generate",
+        }
+      ]
+    }
   },
   "scripts": {
     "vscode:prepublish": "npm run compile",
