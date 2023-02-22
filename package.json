@@ -51,7 +51,7 @@
     "menus": {
       "explorer/context": [
         {
-          "command": "php-skeleton-generator.php-skeleton-generate",
+          "command": "php-skeleton-generator.php-skeleton-generate"
         }
       ]
     }
